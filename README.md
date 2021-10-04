@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cathyyyychoi
 - 👀 I’m interested in ... PYTHON C++ C JAVA node.js
-- 🌱 I’m currently learning ... applied physics & software convergence
+- 🌱 I double majored in ... applied physics & software convergence
 - 📫 How to reach me ... @cathyyyychoi@gmail.com
 
 <!---
